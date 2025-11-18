@@ -5,7 +5,7 @@ Use this command from your desktop to send notifications to your device:
 
 ```bash
 cd ../whatsweb/test-notifications
-./notify.sh "Title" "Message" [counter]
+bash ./notify.sh "Title" "Message" [counter]
 ```
 
 Examples:
